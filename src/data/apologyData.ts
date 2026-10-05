@@ -20,9 +20,9 @@ export interface ApologyConfig {
 }
 
 export const apologyData: ApologyConfig = {
-  recipientName: "My Beautiful Princess",
-  senderName: "Your Sincere Boy",
-  nickname: "Cutie Pie",
+  recipientName: "Radhu",
+  senderName: "Sujde",
+  nickname: "Radhu",
   relationshipTitle: "The Queen of My Heart",
   reasons: [
     {
